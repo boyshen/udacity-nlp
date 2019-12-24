@@ -14,6 +14,8 @@
 
 **目录：machine_translation**
 
+机器翻译是一个热门研究话题，每年都有大量相关论文发表出来。在这些年的研究过程中，出现了各种不同的方法，例如[基于规则的机器翻译](https://en.wikipedia.org/wiki/Rule-based_machine_translation)、[统计学机器翻译](https://en.wikipedia.org/wiki/Statistical_machine_translation)和[基于样本的机器翻译](https://en.wikipedia.org/wiki/Example-based_machine_translation)。但是，这依然是一个未解的问题。不过，神经网络使机器翻译出现了重大发展。
+
 ## 语音识别
 
 **目录：nlp_vui**
